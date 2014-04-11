@@ -1,10 +1,6 @@
-# client-template
+A Simple Web Calculator App
 
-Serves as a template for client JavaScript applications.
+Uses:
 
-It uses:
-* Jade
-* Less
-* Grunt
-* JSHint
-* Node.js
+JS
+jQuery
